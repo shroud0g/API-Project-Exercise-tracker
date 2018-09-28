@@ -2,6 +2,8 @@
 
 #### A microservice project
 
+Live website: https://flawless-stove.glitch.me/
+
 Create user: `POST /api/exercise/new-user`
 
 Add exercises: `POST /api/exercise/add`
