@@ -25,7 +25,7 @@ h1 {
 form {
   padding: 15px;
   color: #e3df96;
-  background-color: #396E80;
+  background-color: #396E80;  
   display: block;
   margin: 0 auto;
   margin-bottom: 25px;
@@ -36,7 +36,8 @@ form {
 
 input {
   display: inline-block;
-  margin-bottom: 10px;
+  margin-top: 8px;
+  margin-bottom: 3px;
   padding: 4px;
   width: 90%;
   border: 1px solid lightgrey;
@@ -60,11 +61,14 @@ input[type=submit]:hover {
 }
 
 code {
+  background-color: #22384E;
   color: #e3df96;
   font-family: monospace;
   font-size: 1.2em;
-  padding: 3px;
+  padding-left: 4px;
+  padding-right: 4px;
   border-radius: 3px;
+  margin-bottom: 10px;
 }
 
 a:link {
